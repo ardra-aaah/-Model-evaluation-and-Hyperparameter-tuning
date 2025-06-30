@@ -13,3 +13,16 @@ Training & evaluation of multiple regression models
 Hyperparameter tuning using RandomizedSearchCV
 
 Performance comparison of models
+
+#Techstack
+Tech Stack
+
+Python 3.10+
+
+scikit-learn
+
+pandas, numpy
+
+matplotlib, seaborn
+
+xgboost, lightgbm
